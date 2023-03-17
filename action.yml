@@ -2,13 +2,13 @@ name: 'FTP Deploy Locaweb'
 author: 'Locaweb'
 description: 'Automatize o envio de arquivos de FTP do seu site para o seu site Locaweb!'
 inputs:
-  host:
+  host:ftp.levmidia.com.br
     description: 'FTP host'
     required: true
-  user:
+  user:levmidia4
     description: 'FTP user'
     required: true
-  password:
+  password:perfex@157Yeer
     description: 'FTP password'
     required: true
   forceSsl:
